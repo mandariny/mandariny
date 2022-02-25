@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me
+
+### Interest
+
+### Latest Projects
+[미니 팀프로젝트](https://github.com/minki0415/web-miniproject)
+
+### Tech
+
+  <img src="https://github-readme-stats.vercel.app/api?username=mandariny&layout=compact&show_icons=true&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandariny&layout=compact&theme=vue&hide_border=true" />!
+[image](https://user-images.githubusercontent.com/87411479/155664471-b95aa010-9595-4f77-b19d-07eccf2be6af.png)
