@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Interest
 
 ### Latest Projects
-[주린이](https://github.com/pomy-harry/stock-simulator)
+[주린이집](https://github.com/pomy-harry/stock-simulator)
 
 ### Tech
 
