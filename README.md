@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Interest
 
 ### Latest Projects
-[미니 팀프로젝트](https://github.com/minki0415/web-miniproject)
+[주린이](https://github.com/pomy-harry/stock-simulator)
 
 ### Tech
 
