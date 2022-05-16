@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ### Latest Projects
 [주린이집](https://github.com/pomy-harry/stock-simulator)
+[약 : 속](https://github.com/mandariny/opendata-wastedrug)
 
 ### Tech
 
