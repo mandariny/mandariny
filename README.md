@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 [약 : 속](https://github.com/mandariny/opendata-wastedrug)
 <br>
-[SNS 패션 트렌드 분석 & 코디 추천 (](https://github.com/mandariny/data-youth-campus-project)
+[SNS 패션 트렌드 분석 & 코디 추천 (웹)](https://github.com/mandariny/data-youth-campus-project)
 
 ### Tech
 
