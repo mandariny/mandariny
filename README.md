@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About me
+<!-- ### About me -->
 
-### Interest
+<!-- ### Interest -->
 
 ### Latest Projects
 [주린이집](https://github.com/pomy-harry/stock-simulator)
@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 ### Tech
 
   <img src="https://github-readme-stats.vercel.app/api?username=mandariny&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandariny&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" />
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thrkflsk)](https://solved.ac/thrkflsk)
+### Problem Solving
+
+#### BOJ
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thrkflsk)](https://solved.ac/thrkflsk)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=thrkflsk&theme=warm)
