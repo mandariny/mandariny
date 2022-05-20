@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
   <img src="https://github-readme-stats.vercel.app/api?username=mandariny&layout=compact&show_icons=true&theme=vue&hide_border=true" />
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandariny)](https://github.com/mandariny/github-readme-stats)
+  
 ### Problem Solving
 
 #### BOJ
