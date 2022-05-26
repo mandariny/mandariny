@@ -5,7 +5,7 @@
 
 I am Sohee, Back-end engineer from Republic of Korea.
   
-<br><br>
+<br>
 
 <!--
 **mandariny/mandariny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Latest Projects
 [주린이집](https://github.com/pomy-harry/stock-simulator)
   
-<br><br>
+<br>
 
 ### Technology Stack
 <!--  https://simpleicons.org/  -->
@@ -48,16 +48,10 @@ Here are some ideas to get you started:
    <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 </p>
   
-<br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandariny&layout=compact&exclude_repo=data-preprocessing-practice">
+  
+<br>
 
-<!-- 
-### Git Status
-
-<p style="align:center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandariny" height=180px> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandariny&layout=compact&exclude_repo=data-preprocessing-practice" height=180px>
-</p>
- -->
 <!--   
 ## Problem Solving
 
@@ -66,9 +60,17 @@ Here are some ideas to get you started:
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=thrkflsk&theme=warm)
 
  -->
- 
- ### Connect with me
- <a href="mailto:mandariny716@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   
+<br>
 
   
+ ### Connect with me
+ <a href="mailto:mandariny716@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mandariny.github.io/"><img alt="GitBlog" src ="https://img.shields.io/badge/GitBlog-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+
+<!-- 
+<p style="align:center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mandariny" height=150px>
+</p>
+   -->
 </div>
